@@ -26,6 +26,13 @@ _res = FUNCTIONEX( "./dll/ukagakaSaori_CalcCalendar.dll" , "2023" , "4" , "1" , 
 ```
 里々でも同じように使用できると思いますが引数の受け渡し方法を知らないためいい感じにしてください。
 
+
+## 動作確認環境
+Windows 10
+SSP/2.6.51
+
+
+
 ## License
 MIT
 
