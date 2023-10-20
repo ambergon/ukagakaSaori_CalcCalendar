@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pwCFQpboK4BVkO7qzrFa0MGOjcJ3suGkgJLQ53yUJWBCRG54+e55EeEWRT3R+sa/DDN5tYO8v1TAunBRt+gDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\foxgo\\source\\repos\\ukagakaSaori_CalcCalendar\\ukagakaSaori_CalcCalendar\\ukagakaSaori_CalcCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foxgo\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

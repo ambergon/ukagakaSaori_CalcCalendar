@@ -1,0 +1,6 @@
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\obj\Release\ukagakaSaori_CalcCalendar.csproj.AssemblyReference.cache
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\obj\Release\ukagakaSaori_CalcCalendar.csproj.CoreCompileInputs.cache
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\bin\Release\ukagakaSaori_CalcCalendar.dll
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\bin\Release\ukagakaSaori_CalcCalendar.pdb
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\obj\Release\ukagakaSaori_CalcCalendar.dll
+C:\Users\foxgo\source\repos\ukagakaSaori_CalcCalendar\ukagakaSaori_CalcCalendar\obj\Release\ukagakaSaori_CalcCalendar.pdb
