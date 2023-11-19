@@ -2,6 +2,11 @@
 伺か用 日付計算を簡単にするためのSAORI-Universal
 
 
+## リメイクされました。
+c#だとゴーストの移動やアンインストールでSAORIが残ってしまうバグがあるので、C++で書き直しました。<br>
+[GitHub - ambergon/ukagakaSaori_CalcCalendarClang](https://github.com/ambergon/ukagakaSaori_CalcCalendarClang)
+
+
 ## 使い方
 例はyayaです。<br>
 FUNCTIONEXを使用し呼び出します。
